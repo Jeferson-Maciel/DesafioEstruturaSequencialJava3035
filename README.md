@@ -1,4 +1,4 @@
-# DesafioEstruturaSequencialJava3035
+# Desafio Estrutura Sequencial Java 3035Teach
 
 ## Exercicios de estrutura sequencial em JAVA
 
